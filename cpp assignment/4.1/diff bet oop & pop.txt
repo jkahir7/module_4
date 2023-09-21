@@ -1,0 +1,6 @@
+
+ -> Key Difference Between OOP and POP
+
+
+ > POP doesn't support inheritance, while OOP supports inheritance that allows using attributes and functions of other classes by 
+inheriting. In OOP, the virtual function supports polymorphism, whereas there is no concept of virtual function in POP.
